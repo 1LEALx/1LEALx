@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1LEALx and my name is Guilherme Passig Leal
+- 👀 I’m interested in data science, database, web development...
+- 🌱 I’m currently learning php and js.
+- 💞️ I’m looking learn react.
+- 📫 Email: guilhermepassigleal@gmail.com
